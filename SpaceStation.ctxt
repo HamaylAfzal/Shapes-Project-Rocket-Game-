@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SpaceStation
+comment1.params=simCanvas
+comment1.target=SpaceStation(Canvas)
+comment2.params=
+comment2.target=void\ moveSmallDistance()
+comment3.params=
+comment3.target=void\ reFuel()
+comment4.params=newSpeed
+comment4.target=void\ setSpeed(char)
+comment5.params=
+comment5.target=int\ getXPosition()
+comment6.params=
+comment6.target=int\ getYPosition()
+numComments=7

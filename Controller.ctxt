@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=
+comment1.target=Controller()
+comment2.params=
+comment2.target=void\ simulate()
+comment3.params=ke
+comment3.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment4.params=ke
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment5.params=ke
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FuelCell
+comment1.params=theCanvas\ theSpaceStation
+comment1.target=FuelCell(Canvas,\ SpaceStation)
+comment2.params=xPosition\ yPosition
+comment2.target=void\ launch(int,\ int)
+comment3.params=
+comment3.target=void\ moveSmallDistance()
+comment4.params=
+comment4.target=java.lang.String\ status()
+numComments=5
